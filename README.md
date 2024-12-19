@@ -43,5 +43,7 @@ The **Red Team Logger Tool** is a Python-based application with a GUI that facil
 ### Steps
 1. Clone or download the repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/nizarski/Red-Team-Logger.git
+   cd Red-Team-Logger
+   pip3 install -r requirements.txt
+   python3 main.py
